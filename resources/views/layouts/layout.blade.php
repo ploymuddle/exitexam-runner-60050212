@@ -54,7 +54,7 @@
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">Exit Exam MVC 2/2563 [วิ่งไร่พัทลุง]</a>
+      <a class="navbar-brand" href="/">Exit Exam MVC 2/2563 [วิ่งไร่พัทลุง]</a>
     </div>
   </div>
 </nav>

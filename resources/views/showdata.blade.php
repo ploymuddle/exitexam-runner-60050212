@@ -1,8 +1,8 @@
 <!-- View แสดงหน้าแสดงข้อมูลผู้เข้าร่วม 10 คนที่มีการวิ่งสูงสุด -->
 @extends('layouts.layout') <!-- เรียกใช้ Template -->
-@section('title', 'home') <!-- กำหนดชื่อ title -->
+@section('title', 'ผู้จัดงาน') <!-- กำหนดชื่อ title -->
 
-@section('header', 'Welcome') <!-- กำหนดหัวข้อ -->
+@section('header', 'ตารางแสดงผู้เข้าร่วม') <!-- กำหนดหัวข้อ -->
 
 @section('text') <!-- แทรกเนื้อหา -->
 
@@ -10,9 +10,6 @@
 @php
   $i = 0;
 @endphp
-
-<h3>ตาราง</h3>
-<p>...</p>
 <table class="table table-bordered">
   <thead>
     <tr>

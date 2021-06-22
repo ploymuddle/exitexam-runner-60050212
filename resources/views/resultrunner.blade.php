@@ -1,8 +1,8 @@
 <!-- View แสดงหน้ารหัสผู้เข้าร่วม เมื่อลงทะเบียนเสร็จแล้ว -->
 @extends('layouts.layout') <!-- เรียกใช้ Template -->
-@section('title', 'runner') <!-- กำหนดชื่อ title -->
+@section('title', 'ผู้เข้าร่วม') <!-- กำหนดชื่อ title -->
 
-@section('header', 'Welcome Runner') <!-- กำหนดหัวข้อ -->
+@section('header', 'ยินดีต้อนรับ ผู้เข้าร่วม') <!-- กำหนดหัวข้อ -->
 
 @section('text') <!-- แทรกเนื้อหา -->
 

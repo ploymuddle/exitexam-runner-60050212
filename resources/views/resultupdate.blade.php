@@ -1,8 +1,8 @@
 <!-- View แสดงหน้าอัปเดตระยะทางเสร็จแล้ว -->
 @extends('layouts.layout') <!-- เรียกใช้ Template -->
-@section('title', 'runner update') <!-- กำหนดชื่อ title -->
+@section('title', 'เพิ่มระยะทางในการวิ่ง') <!-- กำหนดชื่อ title -->
 
-@section('header', 'Update Runner') <!-- กำหนดหัวข้อ -->
+@section('header', 'เพิ่มระยะทางในการวิ่ง') <!-- กำหนดหัวข้อ -->
 
 @section('text') <!-- แทรกเนื้อหา -->
 

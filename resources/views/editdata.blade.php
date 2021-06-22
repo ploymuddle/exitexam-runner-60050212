@@ -1,8 +1,8 @@
 <!-- View แสดงหน้าเพิ่มข้อมูลระยะทาง -->
 @extends('layouts.layout') <!-- เรียกใช้ Template -->
-@section('title', 'Input Teams') <!-- กำหนดชื่อ title -->
+@section('title', 'เพิ่มระยะทางในการวิ่ง') <!-- กำหนดชื่อ title -->
 
-@section('header', 'Input Teams') <!-- กำหนดหัวข้อ -->
+@section('header', 'เพิ่มระยะทางในการวิ่ง') <!-- กำหนดหัวข้อ -->
 
 @section('text') <!-- แทรกเนื้อหา -->
 

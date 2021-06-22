@@ -1,8 +1,8 @@
 <!-- View แสดงหน้าเพิ่มข้อมูลผู้เข้าร่วม -->
 @extends('layouts.layout') <!-- เรียกใช้ Template -->
-@section('title', 'Resgister') <!-- กำหนดชื่อ title -->
+@section('title', 'ลงทะเบียน') <!-- กำหนดชื่อ title -->
 
-@section('header', 'Resgister') <!-- กำหนดหัวข้อ -->
+@section('header', 'ลงทะเบียน') <!-- กำหนดหัวข้อ -->
 
 @section('text') <!-- แทรกเนื้อหา -->
 
